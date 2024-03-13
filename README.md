@@ -1,1 +1,2 @@
 # Sentiment_Analysis
+The Sentiment Analysis project employs Python libraries such as NLTK, scikit-learn, and Pandas to analyze sentiment in movie reviews. By preprocessing textual data, including tokenization and stop word removal, and utilizing machine learning algorithms like Naive Bayes and Logistic Regression, I classified reviews as positive or negative with high accuracy. This project enables to understand public sentiment towards movies and demonstrates the application of natural language processing techniques in text analysis.
